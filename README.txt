@@ -1,1 +1,2 @@
-hello we ar just testing 
+hello we ar just testing
+welove working with git
